@@ -1,18 +1,22 @@
 # Tic-Tac-Toe-Source-Code-Public
 Online Tic Tac Toe Game with Real-time Chat System 🎮💬 
 Link for game: https://play-real-tictactoe.cloud
+
 The Introduction Page:
-<img width="722" alt="image" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/43e7928d-ec61-4241-9c1b-3baf48e1e3b0">
+<img width="722" alt="Screenshot 2024-03-06 223555" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/71a9a2a7-dd1d-4b3c-a4ba-97fa61eb432b">
+
 
 The Login Page:
-<img width="573" alt="image" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/19643dba-b52e-4c86-9ffe-368d7160460d">
+<img width="573" alt="Screenshot 2024-03-06 223800" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/7b30f21e-e3a6-4a39-a172-07f9c7b4a229">
 
 The Chat Page:
-<img width="573" alt="image" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/53c9eecf-daed-4ea5-bc3e-0db58b20538a">
+<img width="573" alt="Screenshot 2024-03-06 223849" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/34cdb99e-e6cf-40cb-85b4-d2c7384b7020">
+
 
 The Game Page:
-<img width="577" alt="image" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/13231f40-cf39-4670-bf62-77e6c957a1f6">
+<img width="577" alt="Screenshot 2024-03-06 223939" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/d0e78644-d97d-4a7f-a53a-8fd9ac382a9f">
 
 The Result Page:
-<img width="575" alt="image" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/0efa3c17-74c6-4230-8a93-791709c189a1">
+<img width="575" alt="Screenshot 2024-03-06 224010" src="https://github.com/Deblina-Mandal/Tic-Tac-Toe-Source-Code-Public/assets/98173509/1b471079-5be4-44e3-8bb2-da45e2154e80">
+
 
