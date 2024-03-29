@@ -32,7 +32,7 @@ The Result Page:
 
 Really delighted to share Our Newest Project 🎉 – Online Tic Tac Toe Game with Real-time Chat System! 🎮💬 Yes, you heard it right! Now, along with the game of Xs and Os, we can also connect and strategize in real-time! 🌟 🎮Game On, Anytime, Anywhere: You can access it from mobile as well as laptop or desktop. Modern twist is given to the Classic Tic Tac Toe game in an online platform with a built-in chat system! 💬 We invite you to play this game to have a wonderful experience with your friends. This game is fully functional now.
 
-🎮GAME LINK: https://lnkd.in/dHMQNTXa 🔗GITHUB LINK: https://lnkd.in/dy78xJ_R
+🎮GAME LINK: https://lnkd.in/dHMQNTXa 
 
 🙌🏼 Team Effort: A huge shoutout to our talented team members who poured their creativity, expertise, and dedication into bringing this project to life. The brilliant minds behind this innovation are: Deblina Mandal, Subhradeep Pal, Kashmira Jha, Pratyush Banerjee and MD Safiul Haque. Together, we've created a game that's all about fun, strategy, and connection.
 
